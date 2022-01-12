@@ -1,5 +1,6 @@
-# JohnDoe
-A Responsive Free One Page Portfolio Website template
+# Tim's Portfolio Website
+
+John Doe Template from ThemeWagon
 
 
 
